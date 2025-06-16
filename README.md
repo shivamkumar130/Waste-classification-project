@@ -1,3 +1,4 @@
+
 # Waste Classifier
 
 A project to classify waste images as recyclable or organic using transfer learning (VGG16).
@@ -24,3 +25,4 @@ A project to classify waste images as recyclable or organic using transfer learn
     ```
     python -m unittest discover tests
     ```
+
