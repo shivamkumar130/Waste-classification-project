@@ -1,0 +1,6 @@
+venv/
+*.keras
+*.h5
+*.pkl
+*.dll
+*.pyd
